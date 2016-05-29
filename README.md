@@ -1,3 +1,9 @@
+#GW-300S Katana用拡張
+
+Mange(Magnus Bergmark)さんのLinux最新カーネル用ドライバをGW-300S用に修正を加えました。
+各ドングルで共通であるコードををGW-300S用に書き換えているので、Masterとは互換性がありません。
+
+
 # rtl8192eu linux drivers
 
 The official drivers for D-Link DWA-131 Rev E, with patches to keep it working on newer kernels.
